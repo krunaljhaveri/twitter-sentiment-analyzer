@@ -1,6 +1,6 @@
 import argparse
 import urllib
-import urllib2
+#import urllib2
 import json
 import datetime
 import random
